@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CalculadoraT</string>
+    <string name="textBtn0">0</string>
+    <string name="textBtn8">8</string>
+    <string name="textBtn1">1</string>
+    <string name="textBtn5">5</string>
+    <string name="textBtn6">6</string>
+    <string name="textBtn4">4</string>
+    <string name="textBtn9">9</string>
+    <string name="textBtn2">2</string>
+    <string name="textBtn3">3</string>
+    <string name="textBtn7">7</string>
+    <string name="textBtnOpnParentesis">(</string>
+    <string name="textBtnClosParentesis">)</string>
+    <string name="textBtnSum">+</string>
+    <string name="textBtnSub">-</string>
+    <string name="textBtnMult">*</string>
+    <string name="textBtnDiv">/</string>
+    <string name="textBtnEqual">=</string>
+    <string name="textBtnAC">C</string>
+</resources>

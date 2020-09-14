@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="frenchPink">#FF729F</color>
+    <color name="gunMetal">#2C363F</color>
+    <color name="blush">#E75A7C</color>
+    <color name="ivory">#F2F5EA</color>
+    <color name="timberwolf">#D6DBD2</color>
+    <color name="laurelGreen">#BBC7A4</color>
+</resources>
